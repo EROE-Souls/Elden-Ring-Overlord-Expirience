@@ -12,64 +12,72 @@ Character:
 - Rune loss on death has been reworked: 1,000 runes are permanently lost upon death (500 while wearing the Gold Scarab Talisman), plus an additional 10% of the player's current rune total.
 - Torrent can now knock aside smaller enemies while sprinting or jumping.
 - Increased camera field of view (FOV).
+  
 Classes:
-
 
 Astrologer:
 
 25% reduced FP cost for Sorceries.
 25% increased Magic damage (with Sorcery).
 25% increased charged Sorcery damage.
+
 Bandit:
 
 25% increased ranged weapon damage.
 25% increased critical attack damage (Physical).
 25% increased dodge and backstep attack damage (Physical).
+
 Prophet:
 
 25% reduced FP cost for Incantations.
 25% increased Holy and Fire damage (with Incarnation).
 25% increased charged Incantation damage.
+
 Warrior:
 
 25% reduced FP cost for Skills.
 25% increased damage of dual-wield and dancing attacks (Physical).
 25% increased throwing blade damage (Physical).
+
 Hero:
 
 25% increased charged attack damage, including Skills (Physical and Lightning).
 25% increased attack penetration (weapons no longer bounce off hard surfaces).
 25% increased jump and dash attack damage (Physical and Lightning).
+
 Vagabond:
 
 25% increased guard efficiency.
 25% increased Skill damage (Physical).
 25% increased heavy attack damage (Physical).
+
 Confessor:
 
 25% increased Holy and Magic melee weapon damage.
 25% increased critical attack damage (Physical and Magic).
 25% faster Sorcery and Incantation casting speed.
+
 Samurai:
 
 25% increased all Fire damage.
 25% increased guard counter damage (Physical and Fire).
 25% increased effective bow range.
+
 Prisoner:
 
 25% reduced FP cost when using consumables.
 25% increased damage of throwing pots and FP-consuming consumables (including reusable ones).
 25% increased damage of the final hit in a combo (Physical).
-Equipment:
 
+Equipment:
 
 - Equipment has been completely reworked. Nearly every armor set now provides unique passive effects.
 - Equipment load has been redesigned. Characters now have a fixed equip load of 30, which can be increased through talismans and equipment.
 - Loot placement and enemy distribution have been reworked throughout dungeons, the open world, and the DLC areas.
 - Gauntlets increase fist weapon damage, including DLC hand-to-hand weapons.
 - Greaves increase kick damage.
+- 
 World:
-
 
 - Enemies are more aggressive, and their deaths are now permanent.
 - Stonesword Keys are required to explore catacombs.
@@ -78,8 +86,8 @@ World:
 - Consumable buffs no longer disappear upon death or when reloading the game (with the exception of weapon greases). Their effects remain active until their duration expires or they are replaced by another active consumable buff.
 - Weapon upgrades may require specific materials depending on the weapon.
 - Smithing Stones can now be crafted.
+- 
 Combat:
-
 
 - Dragons now have vulnerable body parts, including wings, tails, and necks. Different damage types are more effective against specific body parts.
 - Dragons have been reduced in size.
@@ -87,8 +95,8 @@ Combat:
 - Most enemies require players to adapt their equipment and combat approach.
 - Passive FP regeneration has been added and scales with the weight of equipped armor (every 10 seconds).
 - The Death status effect now works against enemies. Instead of causing instant death as it does to players, it deals 10% of the target's maximum HP as damage and inflicts a flat amount of stance damage based on the strength of the effect.
+  
 Ranged Combat:
-
 
 - Bows have been significantly improved. Jumping shots now fire two arrows instead of one.
 - Arrows and bolts no longer have weight. Maximum ammunition capacity has been increased to:
@@ -101,6 +109,7 @@ Ranged Combat:
 - Bows can no longer be upgraded.
 - Arrows are crafted in batches of 30, while bolts are crafted in batches of 20.
 - Ranged combat talismans have been redesigned. For example, the Arrow's Reach Talisman now allows players to mark targets with ranged attacks, increasing Pierce damage dealt to them.
+- 
 Ashes of War:
 
 - Storm Assault is now considered a Jump Attack.
