@@ -116,7 +116,7 @@ Ashes of War:
 - Loretta's Slash is now considered a Jump Attack.
 - Unsheathe's first attack is now considered a Parry (similar to Dark Souls III).
 - Repeating Thrust / Blood Tax are now considered Final Chain Attack.
-- Spinning Slash is now considered a Final Chain Attack .
+- Spinning Slash is now considered a Final Chain Attack.
 - Earthshaker's heavy attack is now considered a Charged Attack.
 - Torch Attack (first animation) is now considered a Charged Attack.
 - Sword Dance follow-up attacks are now considered Combo Attacks.
@@ -125,10 +125,10 @@ Ashes of War:
 - Ground Slam / Golden Slam are now considered Jump Attacks.
 - Prelate's Charge is now considered a Dash Attack.
 - Troll's Roar follow-up heavy attack is now considered both a Charged Attack and a Two-Handed Attack.
-- Spinning Chain follow-up attack is now considered a Final Chain Attack .
+- Spinning Chain follow-up attack is now considered a Final Chain Attack.
 - Spinning Strikes: normal attacks are considered Combo Attacks, while heavy attacks are considered Jump Attacks.
 - Starcaller Cry follow-up attack is now considered both a Dual-Wield (Dancing) Attack and a Charged Attack.
-- Dynast's Finesse is now considered a Dash Attack, while its heavy follow-up is considered a Final Chain Attack .
+- Dynast's Finesse is now considered a Dash Attack, while its heavy follow-up is considered a Final Chain Attack.
 - Magma Guillotine is now considered a Jump Attack.
 - Bloodhound's Finesse heavy follow-up is now considered a Dodge/Backstep Attack.
 - Cursed-Blood Slice is now considered both a Blood Attack and a Dash Attack.
@@ -136,27 +136,28 @@ Ashes of War:
 - Blood Blade Dance is now considered a Jump Attack, Dash Attack, Combo Attack, and Blood Attack.
 - Golden Crux is now considered a Jump Attack.
 - Wild Strikes: light attacks are considered Dodge/Backstep Attacks, while heavy attacks are considered Dash Attacks.
-- Stormcaller is now considered a Dash Attack and Final Chain Attack .
-- Ancient Dragon's Lightning Strike is now considered a Lightning Attack, Dash Attack, and Final Chain Attack
+- Stormcaller is now considered a Dash Attack and Final Chain Attack.
+- Ancient Dragon's Lightning Strike is now considered a Lightning Attack, Dash Attack, and Final Chain Attack.
 - Thundercloud Form is now considered a Lightning Attack, Dash Attack, and Jump Attack (charged).
 - Thunder Kick is now considered a Lightning Attack, Dodge/Backstep Attack, and Jump Attack (heavy attack).
-- Stormhawk Attack is now considered a Dash Attack and Final Chain Attack .
-- Rancor Slash is now considered a Final Chain Attack .
+- Stormhawk Attack is now considered a Dash Attack and Final Chain Attack.
+- Rancor Slash is now considered a Final Chain Attack.
 - Blind Spot is now considered a Dodge/Backstep Attack.
-- Dryleaf Whirlwind is now considered a Jump Attack and Final Chain Attack .
-- Raging Beast is now considered a Dodge/Backstep Attack, Jump Attack, and Final Chain Attack .
+- Dryleaf Whirlwind is now considered a Jump Attack and Final Chain Attack.
+- Raging Beast is now considered a Dodge/Backstep Attack, Jump Attack, and Final Chain Attack.
 - Red Bear Hunt is now considered a Combo Attack during repeated use.
 - Sorcerous Strike is now considered a Dash Attack and Combo Attack.
 - Savage Claws are now considered a Dash Attack, Jump Attack, and Final Chain Attack 
 - Reaping Slash is now considered a Dash Attack, Two-Handed Attack, and Final Chain Attack.
 - Golden Cross is now considered a Jump Attack.
 - Lightning Dash is now considered a Dash Attack.
-- Lightning Dash (Axes) is now considered a Dash Attack, Dual-Wield Attack, and Final Chain Attack .
+- Lightning Dash (Axes) is now considered a Dash Attack, Dual-Wield Attack, and Final Chain Attack.
 - Lightning Dash (Greataxe) is now considered a Dash Attack and Jump Attack.
 - Swift Strike is now considered a Jump Attack.
-- Promised Consort is now considered a Dash Attack, Jump Attack, and Final Chain Attack .
+- Promised Consort is now considered a Dash Attack, Jump Attack, and Final Chain Attack.
 - Romina's Purification is now considered a Dancing Attack and Jump Attack.
 - Moon Slash is now considered a Two-Handed Attack (melee hit only, not the projectile) and a Dash Attack (heavy attack).
-- Raise Weapon is now considered a Two-Handed Attack and Final Chain Attack (heavy attack).
-- Quick Strike is now considered a Dodge/Backstep Attack and Final Chain Attack .
+- Raise Weapon is now considered a Two-Handed Attack and Final Chain Attack (heavy attack) .
+- Quick Strike is now considered a Dodge/Backstep Attack and Final Chain Attack.
+- Corpse Piler is now considered a Two-Handed Attack, Blood Attack and Final Chain Attack.
 
