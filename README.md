@@ -12,7 +12,7 @@ Character:
 - Rune loss on death has been reworked: 1,000 runes are permanently lost upon death (500 while wearing the Gold Scarab Talisman), plus an additional 10% of the player's current rune total.
 - Torrent can now knock aside smaller enemies while sprinting or jumping.
 - Increased camera field of view (FOV).
-  
+
 Classes:
 
 Astrologer:
@@ -76,7 +76,7 @@ Equipment:
 - Loot placement and enemy distribution have been reworked throughout dungeons, the open world, and the DLC areas.
 - Gauntlets increase fist weapon damage, including DLC hand-to-hand weapons.
 - Greaves increase kick damage.
-- 
+
 World:
 
 - Enemies are more aggressive, and their deaths are now permanent.
@@ -86,7 +86,7 @@ World:
 - Consumable buffs no longer disappear upon death or when reloading the game (with the exception of weapon greases). Their effects remain active until their duration expires or they are replaced by another active consumable buff.
 - Weapon upgrades may require specific materials depending on the weapon.
 - Smithing Stones can now be crafted.
-- 
+
 Combat:
 
 - Dragons now have vulnerable body parts, including wings, tails, and necks. Different damage types are more effective against specific body parts.
@@ -109,7 +109,7 @@ Ranged Combat:
 - Bows can no longer be upgraded.
 - Arrows are crafted in batches of 30, while bolts are crafted in batches of 20.
 - Ranged combat talismans have been redesigned. For example, the Arrow's Reach Talisman now allows players to mark targets with ranged attacks, increasing Pierce damage dealt to them.
-- 
+
 Ashes of War:
 
 - Storm Assault is now considered a Jump Attack.
@@ -160,4 +160,3 @@ Ashes of War:
 - Raise Weapon is now considered a Two-Handed Attack and Final Chain Attack (heavy attack) .
 - Quick Strike is now considered a Dodge/Backstep Attack and Final Chain Attack.
 - Corpse Piler is now considered a Two-Handed Attack, Blood Attack and Final Chain Attack.
-
