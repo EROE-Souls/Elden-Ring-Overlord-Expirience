@@ -15,7 +15,7 @@ Character:
 
 Classes:
 
-Astrologer:
+- Astrologer:
 
 25% reduced FP cost for Sorceries.
 
@@ -23,7 +23,7 @@ Astrologer:
 
 25% increased charged Sorcery damage.
 
-Bandit:
+- Bandit:
 
 25% increased ranged weapon damage.
 
@@ -31,7 +31,7 @@ Bandit:
 
 25% increased dodge and backstep attack damage (Physical).
 
-Prophet:
+- Prophet:
 
 25% reduced FP cost for Incantations.
 
@@ -39,7 +39,7 @@ Prophet:
 
 25% increased charged Incantation damage.
 
-Warrior:
+- Warrior:
 
 25% reduced FP cost for Skills.
 
@@ -47,7 +47,7 @@ Warrior:
 
 25% increased throwing blade damage (Physical).
 
-Hero:
+- Hero:
 
 25% increased charged attack damage, including Skills (Physical and Lightning).
 
@@ -55,7 +55,7 @@ Hero:
 
 25% increased jump and dash attack damage (Physical and Lightning).
 
-Vagabond:
+- Vagabond:
 
 25% increased guard efficiency.
 
@@ -63,7 +63,7 @@ Vagabond:
 
 25% increased heavy attack damage (Physical).
 
-Confessor:
+- Confessor:
 
 25% increased Holy and Magic melee weapon damage.
 
@@ -71,7 +71,7 @@ Confessor:
 
 25% faster Sorcery and Incantation casting speed.
 
-Samurai:
+- Samurai:
 
 25% increased all Fire damage.
 
@@ -79,7 +79,7 @@ Samurai:
 
 25% increased effective bow range.
 
-Prisoner:
+- Prisoner:
 
 25% reduced FP cost when using consumables.
 
@@ -89,7 +89,7 @@ Prisoner:
 
 Classes (DLC Tarnished Pack):
 
-Idus Knight:
+- Idus Knight:
 
 25% increased Lightning and Holy attack defense.
 
@@ -97,7 +97,7 @@ Idus Knight:
 
 25% increased Dexterity bonus.
 
-Heavy Knight:
+- Heavy Knight:
 
 25% increased Physical attack defense.
 
