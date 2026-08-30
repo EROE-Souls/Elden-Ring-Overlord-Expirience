@@ -69,6 +69,20 @@ Prisoner:
 25% increased damage of throwing pots and FP-consuming consumables (including reusable ones).
 25% increased damage of the final hit in a combo (Physical).
 
+Classes (DLC Tarnished Pack):
+
+Idus Knight:
+
+25% increased Lightning and Holy attack defense.
+25% increased SP regeneration speed.
+25% increased Dexterity bonus.
+
+Heavy Knight:
+
+25% increased Physical attack defense.
+25% increased Equip load.
+25% increased Strength bonus.
+
 Equipment:
 
 - Equipment has been completely reworked. Nearly every armor set now provides unique passive effects.
